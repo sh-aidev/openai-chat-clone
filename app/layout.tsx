@@ -5,10 +5,10 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: {
-    default: "TSAI Chat",
-    template: "%s | TSAI Chat",
+    default: "LLM Chat",
+    template: "%s | LLM Chat",
   },
-  description: "TSAI-LM Chat App",
+  description: "LLM Chat App",
   keywords: ["tsai", "chat", "lm", "gpt", "chatgpt"],
   robots: {
     index: true,

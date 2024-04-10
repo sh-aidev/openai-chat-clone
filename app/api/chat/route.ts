@@ -15,7 +15,7 @@ export async function POST(req: Request) {
 
   // Ask OpenAI for a streaming chat completion given the prompt
   const response = await openai.chat.completions.create({
-    model: 'mistral-7b-v0.1-alpaca-chat',
+    model: 'satyajitghana/mistral-7b-v0.1-alpaca-chat',
     stream: true,
     messages,
   });
