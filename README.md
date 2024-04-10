@@ -1,4 +1,4 @@
-# The School Of AI - Chat
+# LLM - Chat
 
 
 The backend model is OpenAI Compatible Model, It's a Mistral 7B V0.1 Finetuned on Alpaca GPT4 Dataset
